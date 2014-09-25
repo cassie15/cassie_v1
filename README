@@ -6,3 +6,4 @@ TODO
 -create a basic, working version of CASSIE
 -no automation
 -only the ruby business logic- maybe a simple web interface in html?
+-RubyApp name will match git repository name (cassie_v1)
